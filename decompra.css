@@ -1,0 +1,29 @@
+body{
+	background: #FFF5EE;
+	background-color: #FFF5EE;
+    margin: auto;
+    padding: auto;
+}
+
+p{
+    font-size: 1.2rem;   
+    text-align:center;
+    color: rgb(71, 70, 70);
+    top:40%; 
+    margin-top:-52px;
+    left: 40%;
+    position:absolute; 
+}
+
+img{
+    display: block;
+    margin: auto;   
+    text-align:center; 
+     top:50%; 
+     margin-top:-52px;
+      left: 50%;
+      margin-left:-140px;
+    position:absolute; 
+    }
+    
+    
