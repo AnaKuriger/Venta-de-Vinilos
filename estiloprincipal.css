@@ -12,9 +12,9 @@ header{
 
 }
 
-.header .h1{
+h1{
 	font-size: 55px;
-	color: rgb(255, 255, 255);
+	color: rgb(247, 233, 115);
 	line-height: 180px;
 	font-weight: 300;
 	transition: all 0.3s ease;
